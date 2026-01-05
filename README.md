@@ -14,7 +14,7 @@ A real-time synchronization system between a mobile drawing interface and a Unit
 2. Ensure the C# script is listening on the correct port.
 3. Start an ngrok tunnel to your local port.
 4. Copy and Paste the NGROK https link to Draw.html in the Fetch section
-5. Run pyton -m http.server 5500 on the terminal.
+5. Run python -m http.server 5500 on the terminal.
 6. Get your IPV4 with typing ipconfig in CMD, and paste it to the browser of your device that will give the input such as an iPad   
 7. Send pixel data from the client to Unity.
 8. If errors encountered check firewall permissions of Unity app.
